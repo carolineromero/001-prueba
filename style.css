@@ -1,0 +1,27 @@
+body {
+    background-color: honeydew;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: rgb(185, 65, 21);
+}
+
+.container {
+    display: flex;
+    background-color: blue;
+    text-align: center;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    color: floralwhite;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: rgb(210, 30, 201) 0.5px 1px 1px 1px;
+
+}
